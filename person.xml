@@ -1,0 +1,33 @@
+<person>
+     <name>bharathi</name>
+     <dob>1994-24-06</dob>
+     <address>
+         <address-line1>dhanalakshmi center</address-line1>
+         <address-line2>kphb</address-line2>
+         <street>roadno2</street>
+         <city>hyderabad</city>
+     </address>        
+
+</person>
+
+<person>
+     <name>bharathi</name>
+     <dob>1994-24-06</dob>
+     </address>
+           </home address> 
+               <address-line1>dhanalakshmi center</address-line1>
+               <address-line2>kphb</address-line2>
+               <street>roadno2</street>
+               <city>hyderabad</city>
+          </home address>        
+          </office address> 
+               <address-line1>dhanalakshmi center</address-line1>
+               <address-line2>kphb</address-line2>
+               <street>roadno2</street>
+               <city>hyderabad</city>
+          </office address> 
+     </address>            
+</person>
+
+
+
